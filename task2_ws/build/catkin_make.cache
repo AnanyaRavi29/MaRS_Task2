@@ -1,0 +1,2 @@
+task2_sensor_pkg
+-DCATKIN_DEVEL_PREFIX=/home/ani/MARS/MaRS_Task2/task2_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ani/MARS/MaRS_Task2/task2_ws/install -G Unix Makefiles
